@@ -1,0 +1,1 @@
+Based on [damoun/renovate-config](https://github.com/damoun/renovate-config)
