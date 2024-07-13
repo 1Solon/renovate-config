@@ -2,7 +2,6 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "additionalBranchPrefix": "{{manager}}/",
   "commitBodyTable": true,
-  "dependencyDashboardTitle": "Renovate Dashboard",
   "extends": [
     "config:recommended",
     ":dependencyDashboard",
