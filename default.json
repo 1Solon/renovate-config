@@ -43,7 +43,6 @@
   "rebaseWhen": "conflicted",
   "requireConfig": "required",
   "rollbackPrs": true,
-  "schedule": ["at any time"],
   "vulnerabilityAlerts": {
     "addLabels": ["security"],
     "description": "Be sure that the Dependency graph and Dependabot alerts are enabled for the repo. Details: https://docs.renovatebot.com/configuration-options/#vulnerabilityalerts",
