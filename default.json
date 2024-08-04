@@ -19,9 +19,6 @@
     "regexManagers:dockerfileVersions",
     "regexManagers:githubActionsVersions"
   ],
-  "kubernetes": {
-    "fileMatch": ["\\.ya?ml$"]
-  },
   "labels": ["dependencies", "{{updateType}}", "{{manager}}"],
   "minimumReleaseAge": "3 days",
   "onboarding": true,
